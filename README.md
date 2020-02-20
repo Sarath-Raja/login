@@ -1,4 +1,4 @@
-This is a sample Node.js application which includes login authentication
+This is a sample Node.js application with login authentication
 
 technologies used are:
                 
